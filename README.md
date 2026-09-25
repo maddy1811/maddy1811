@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Madhav Sain
 
-### AI & Data Science Engineer | Full-Stack Developer
+### AI & Data Science Student | Full-Stack Developer
 
-Building AI-powered applications, scalable backend systems & modern web experiences.
+Building full-stack applications, AI-powered solutions & backend systems.
 
 </div>
 
@@ -14,9 +14,9 @@ Building AI-powered applications, scalable backend systems & modern web experien
 
 🎓 B.E. Artificial Intelligence & Data Science student at Dr. D. Y. Patil Institute of Technology, Pune.
 
-💻 Interested in Full-Stack Development, Backend Engineering & Generative AI.
+💻 Building projects with React.js, Python, FastAPI, Node.js and MongoDB.
 
-🤖 Currently exploring RAG, LangChain, LangGraph, embeddings & vector databases.
+🤖 Exploring Generative AI, RAG, LangChain, LangGraph, embeddings & vector databases.
 
 🧠 Practicing Data Structures & Algorithms and solving problems on LeetCode.
 
