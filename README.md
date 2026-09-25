@@ -6,11 +6,22 @@
 
 # 👋 Hi, I'm Madhav Sain
 
-### AI & Data Science Student | Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Backend+Developer;Generative+AI+Enthusiast;DSA+%26+Problem+Solving" />
+</p>
 
+<h3 align="center">🚀 Build • Learn • Ship • Repeat</h3>
 Building full-stack applications, AI-powered solutions & backend systems.
 
 </div>
+
+---
+## ⚡ Profile Highlights
+
+| 🎓 Education | 💻 Development | 🤖 AI |
+|:---:|:---:|:---:|
+| B.E. AI & Data Science | Full-Stack Development | Generative AI |
+| Pune, India | React • FastAPI • Node.js | RAG • LangChain • LangGraph |
 
 ---
 
@@ -42,7 +53,9 @@ Building full-stack applications, AI-powered solutions & backend systems.
 <tr>
 <td width="50%">
 
-### 🤖 DocuMind
+---
+
+### 🤖 [DocuMind](https://docu-mind-pearl.vercel.app/)
 
 AI-powered PDF chat application that lets users interact with documents using RAG and LLMs.
 
@@ -94,3 +107,20 @@ Full-stack payment application with authentication, transaction workflows and se
 - 💻 **24-Hour Hackathon** — Helped organize an event with 200+ participating teams
 
 ---
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/maddy_1811">
+<img src="https://img.shields.io/badge/GitHub-maddy__1811-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://leetcode.com/u/maddy_1811/">
+<img src="https://img.shields.io/badge/LeetCode-maddy__1811-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">🚀 Build • Learn • Ship • Repeat</h3>
