@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./madhav_github_banner.gif" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Madhav Sain
