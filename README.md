@@ -111,8 +111,8 @@ Full-stack payment application with authentication, transaction workflows and se
 
 <p align="center">
 
-<a href="https://github.com/maddy_1811">
-<img src="https://img.shields.io/badge/GitHub-maddy__1811-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/maddy1811">
+<img src="https://img.shields.io/badge/GitHub-maddy1811-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://leetcode.com/u/maddy_1811/">
